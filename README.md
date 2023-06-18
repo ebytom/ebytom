@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🔭 I’m currently working at Toyota Industries Engine India Pvt Ltd (TIEI)
+🌱 I’m currently learning React Native, Flutter
+👯 I’m looking to collaborate on projects based on React, Mongo and Express.
+🤔 I’m looking for help with startup ideas.
+👯 I’m looking for a co-founder for my startup.
+
+### Tech Used
+
 <!--
 **Eby-Tom/Eby-Tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
