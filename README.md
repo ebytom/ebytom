@@ -10,7 +10,7 @@
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/mongodb-original.svg](https://camo.githubusercontent.com/c07c7bbe5c0dc0363beab0a47d8862977d8c45aa87e9084465df901c1091e247/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f6d6f6e676f64622e706e67" alt="php" width="40" height="40"/>
+<img src="https://camo.githubusercontent.com/c07c7bbe5c0dc0363beab0a47d8862977d8c45aa87e9084465df901c1091e247" alt="mongodb" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/reactjs-original.svg" alt="vscode" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
