@@ -6,8 +6,18 @@
 - 🤔 I’m looking for help with startup ideas.
 - 👯 I’m looking for a co-founder for my startup.
 
-### Tech Used
-
+## Tech Used
+mongodb
+react
+firebase
+node-js
+vue-js
+flutter
+angularjs
+bootstrap
+python--v1
+git
+bash
 <!--
 **Eby-Tom/Eby-Tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
