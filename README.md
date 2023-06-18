@@ -7,6 +7,7 @@
 - 👯 I’m looking for a co-founder for my startup.
 
 ## Tech Used
+
 mongodb
 react
 firebase
