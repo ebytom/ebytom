@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React Native, Flutter
 - 👯 I’m looking to collaborate on projects based on React, Mongo and Express.
 - 🤔 I’m looking for help with startup ideas.
-- 👯 I’m looking for a co-founder for my startup.
+
 
 <h3>Some Tools I Have Used and Learned 🚀</h3>
 <p align="left">
