@@ -7,17 +7,17 @@
 
 
 <h3>Some Tools I Have Used and Learned 🚀</h3>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-<img src="https://camo.githubusercontent.com/c07c7bbe5c0dc0363beab0a47d8862977d8c45aa87e9084465df901c1091e247" alt="mongodb" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/reactjs-original.svg" alt="vscode" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</p>
+<img align="left" width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/arduino.png" alt="vue-js"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/bash.png" alt="bash"/>
 
 <!--
 **Eby-Tom/Eby-Tom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
