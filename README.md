@@ -17,7 +17,7 @@
   <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
   <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/bash.png" alt="bash"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/bash.png" alt="bash"/><br/>
 
 ## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Eby-Tom&theme=blue-green)
