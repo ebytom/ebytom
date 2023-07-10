@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with startup ideas.<br/><br/>
 
 
-<h3>Some Tools I Have Used and Learned 🚀</h3>
+### Some Tools I Have Used and Learned
 <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
   <img align="left" width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
   <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
